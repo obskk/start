@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	여기는 guest쪽에서 추가한 파일 입니다.
+	여기는 guest쪽에서 추가한 파일 입니다.aa
 </body>
 </html>
